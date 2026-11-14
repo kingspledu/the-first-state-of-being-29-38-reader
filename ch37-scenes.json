@@ -1,0 +1,130 @@
+[
+  {
+    "chapter": 37,
+    "scene": 1,
+    "paragraph": 1,
+    "image": "assets/ch37-final-01.webp",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "chapter": 37,
+    "scene": 2,
+    "paragraph": 1,
+    "image": "assets/ch37-final-02.webp",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "chapter": 37,
+    "scene": 3,
+    "paragraph": 2,
+    "image": "assets/ch37-final-03.webp",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "chapter": 37,
+    "scene": 4,
+    "paragraph": 3,
+    "image": "assets/ch37-final-04.webp",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "chapter": 37,
+    "scene": 5,
+    "paragraph": 4,
+    "image": "assets/ch37-final-05.webp",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "chapter": 37,
+    "scene": 6,
+    "paragraph": 6,
+    "image": "assets/ch37-final-06.webp",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "chapter": 37,
+    "scene": 7,
+    "paragraph": 9,
+    "image": "assets/ch37-final-07.webp",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "chapter": 37,
+    "scene": 8,
+    "paragraph": 14,
+    "image": "assets/ch37-final-08.webp",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "chapter": 37,
+    "scene": 9,
+    "paragraph": 16,
+    "image": "assets/ch37-final-09.webp",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "chapter": 37,
+    "scene": 10,
+    "paragraph": 19,
+    "image": "assets/ch37-final-10.webp",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "chapter": 37,
+    "scene": 11,
+    "paragraph": 22,
+    "image": "assets/ch37-final-11.webp",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "chapter": 37,
+    "scene": 12,
+    "paragraph": 27,
+    "image": "assets/ch37-final-12.webp",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "chapter": 37,
+    "scene": 13,
+    "paragraph": 32,
+    "image": "assets/ch37-final-13.webp",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "chapter": 37,
+    "scene": 14,
+    "paragraph": 39,
+    "image": "assets/ch37-final-14.webp",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "chapter": 37,
+    "scene": 15,
+    "paragraph": 40,
+    "image": "assets/ch37-final-15.webp",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "chapter": 37,
+    "scene": 16,
+    "paragraph": 43,
+    "image": "assets/ch37-final-16.webp",
+    "row": 4,
+    "column": 4
+  }
+]
