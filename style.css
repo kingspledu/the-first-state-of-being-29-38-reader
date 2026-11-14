@@ -20,3 +20,5 @@ header{display:flex!important;align-items:center!important;justify-content:space
 section[id]{scroll-margin-top:90px}header{box-sizing:border-box}
 
 .volume-links{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0;padding:14px 0;border-block:1px solid #cdbda5;font:16px/1.5 Arial,sans-serif}.volume-links a{padding:8px 14px;border-radius:22px;background:#243a35;color:#fff;text-decoration:none}.volume-links a:hover{background:#486359}
+
+.story-scene{max-width:680px;margin:26px auto}.story-scene img{width:100%;height:auto;display:block;border-radius:8px}

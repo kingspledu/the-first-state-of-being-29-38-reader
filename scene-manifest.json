@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ch29-sc01",
+    "chapter": 29,
+    "insert_after_paragraph": 1,
+    "image": "assets/ch29-scene-01.webp",
+    "description": "Michael wakes to pounding at the apartment door",
+    "grid": "ch29-grid-001",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "ch29-sc02",
+    "chapter": 29,
+    "insert_after_paragraph": 2,
+    "image": "assets/ch29-scene-02.webp",
+    "description": "Michael dresses beside sleeping Ridge",
+    "grid": "ch29-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "ch29-sc03",
+    "chapter": 29,
+    "insert_after_paragraph": 5,
+    "image": "assets/ch29-scene-03.webp",
+    "description": "Michael approaches the entrance",
+    "grid": "ch29-grid-001",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "ch29-sc04",
+    "chapter": 29,
+    "insert_after_paragraph": 6,
+    "image": "assets/ch29-scene-04.webp",
+    "description": "Michael peers through the peephole",
+    "grid": "ch29-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "ch29-sc05",
+    "chapter": 29,
+    "insert_after_paragraph": 11,
+    "image": "assets/ch29-scene-05.webp",
+    "description": "Beejee pounds on the door",
+    "grid": "ch29-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "ch29-sc06",
+    "chapter": 29,
+    "insert_after_paragraph": 15,
+    "image": "assets/ch29-scene-06.webp",
+    "description": "Michael opens the door a crack",
+    "grid": "ch29-grid-001",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "ch29-sc07",
+    "chapter": 29,
+    "insert_after_paragraph": 18,
+    "image": "assets/ch29-scene-07.webp",
+    "description": "Beejee accuses Michael of stealing tools",
+    "grid": "ch29-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "ch29-sc08",
+    "chapter": 29,
+    "insert_after_paragraph": 21,
+    "image": "assets/ch29-scene-08.webp",
+    "description": "Michael struggles to hold back tears",
+    "grid": "ch29-grid-001",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "ch29-sc09",
+    "chapter": 29,
+    "insert_after_paragraph": 22,
+    "image": "assets/ch29-scene-09.webp",
+    "description": "Beejee enters the bedroom hallway",
+    "grid": "ch29-grid-001",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "ch29-sc10",
+    "chapter": 29,
+    "insert_after_paragraph": 25,
+    "image": "assets/ch29-scene-10.webp",
+    "description": "Beejee searches as Ridge wakes",
+    "grid": "ch29-grid-001",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "ch29-sc11",
+    "chapter": 29,
+    "insert_after_paragraph": 29,
+    "image": "assets/ch29-scene-11.webp",
+    "description": "Michael presses his thumb into his palm",
+    "grid": "ch29-grid-001",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "ch29-sc12",
+    "chapter": 29,
+    "insert_after_paragraph": 32,
+    "image": "assets/ch29-scene-12.webp",
+    "description": "Beejee retrieves his hammer and pliers",
+    "grid": "ch29-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "ch29-sc13",
+    "chapter": 29,
+    "insert_after_paragraph": 35,
+    "image": "assets/ch29-scene-13.webp",
+    "description": "Ridge steps between Beejee and Michael",
+    "grid": "ch29-grid-001",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "ch29-sc14",
+    "chapter": 29,
+    "insert_after_paragraph": 37,
+    "image": "assets/ch29-scene-14.webp",
+    "description": "Ridge takes responsibility",
+    "grid": "ch29-grid-001",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "ch29-sc15",
+    "chapter": 29,
+    "insert_after_paragraph": 42,
+    "image": "assets/ch29-scene-15.webp",
+    "description": "Beejee takes the cargo shorts containing the sumbook",
+    "grid": "ch29-grid-001",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "ch29-sc16",
+    "chapter": 29,
+    "insert_after_paragraph": 45,
+    "image": "assets/ch29-scene-16.webp",
+    "description": "Ridge steadies himself as Michael leaves to retrieve the book",
+    "grid": "ch29-grid-001",
+    "row": 4,
+    "column": 4
+  }
+]
