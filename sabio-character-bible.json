@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "reference": "assets/sabio-family-master-v1.png",
+  "note": "Source attributes and production design choices are distinct. Do not reuse Beejee, Mosley, Gibby or Paige for Sabio family.",
+  "characters": [
+    {
+      "id": "maria",
+      "name": "Maria Sabio",
+      "source": {
+        "age": 52,
+        "height_cm": 162,
+        "hair": "brown",
+        "eyes": "brown"
+      },
+      "design": "Round glasses, low bun with grey streak, white lab coat, charcoal turtleneck."
+    },
+    {
+      "id": "ian",
+      "name": "Ian Sabio",
+      "source": {
+        "age": 18,
+        "height_cm": 182,
+        "hair": "brown",
+        "eyes": "brown"
+      },
+      "design": "Side-parted short hair; teal uniform."
+    },
+    {
+      "id": "shale",
+      "name": "Shale Sabio",
+      "source": {
+        "age": 17,
+        "height_cm": 181,
+        "hair": "brown",
+        "eyes": "blue"
+      },
+      "design": "Textured short hair; rust uniform."
+    },
+    {
+      "id": "bex",
+      "name": "Bex Sabio",
+      "source": {
+        "age": 14,
+        "height_cm": 148,
+        "hair": "brown",
+        "eyes": "blue",
+        "gender": "nonbinary in chapter33 transcript"
+      },
+      "design": "Chin-length bob; lavender uniform."
+    }
+  ]
+}
