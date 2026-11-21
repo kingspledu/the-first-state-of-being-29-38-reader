@@ -1438,5 +1438,181 @@
     "grid": "final-mixed-grid-001",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "ch33-lab-rebuild-01",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p073-s162",
+    "image": "assets/ch33-lab-rebuild-01.webp",
+    "description": "Maria sees how pale Ridge is through the chamber glass",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 1,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-02",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p071-s159",
+    "image": "assets/ch33-lab-rebuild-02.webp",
+    "description": "Ian and Bex wait for detox to finish",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 1,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-03",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p076-s167",
+    "image": "assets/ch33-lab-rebuild-03.webp",
+    "description": "Shale watches Ridge trying to speak",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 1,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-04",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p073-s164",
+    "image": "assets/ch33-lab-rebuild-04.webp",
+    "description": "Maria urgently asks for the chamber door to open",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 1,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-05",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p075-s166",
+    "image": "assets/ch33-lab-rebuild-05.webp",
+    "description": "Bex explains the detox delay",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 2,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-06",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p079-s171",
+    "image": "assets/ch33-lab-rebuild-06.webp",
+    "description": "Maria approaches Ridge as the chamber opens",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 2,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-07",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p080-s174",
+    "image": "assets/ch33-lab-rebuild-07.webp",
+    "description": "Maria supports Ridge while Shale fetches the HUCK",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 2,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-08",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p081-s177",
+    "image": "assets/ch33-lab-rebuild-08.webp",
+    "description": "Maria checks Ridge fever",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 2,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-09",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p086-s184",
+    "image": "assets/ch33-lab-rebuild-09.webp",
+    "description": "Ridge admits losing the sumbook",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 3,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-10",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p087-s185",
+    "image": "assets/ch33-lab-rebuild-10.webp",
+    "description": "Shale returns with the medical patch",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 3,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-11",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p087-s186",
+    "image": "assets/ch33-lab-rebuild-11.webp",
+    "description": "Maria places the HUCK patch on Ridge arm",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 3,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-12",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p089-s188",
+    "image": "assets/ch33-lab-rebuild-12.webp",
+    "description": "Ian and Bex react to the lost sumbook",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 3,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-13",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p091-s192",
+    "image": "assets/ch33-lab-rebuild-13.webp",
+    "description": "Maria comforts Ridge",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 4,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-14",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p096-s201",
+    "image": "assets/ch33-lab-rebuild-14.webp",
+    "description": "Bex checks that Ridge is improving",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 4,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-15",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p103-s212",
+    "image": "assets/ch33-lab-rebuild-15.webp",
+    "description": "Shale denies having been worried",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 4,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild-16",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p107-s220",
+    "image": "assets/ch33-lab-rebuild-16.webp",
+    "description": "Ian shows the name inside the paperback",
+    "grid": "ch33-lab-rebuild-grid-001",
+    "row": 4,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
   }
 ]
