@@ -158,5 +158,155 @@
     "grid": "ch29-grid-001",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "ch35-supp2-01",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p003-s4",
+    "image": "assets/ch35-supp2-01.webp",
+    "description": "Beejee leaves",
+    "grid": "ch35-grid-supp-002",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "ch35-supp2-02",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p003-s5",
+    "image": "assets/ch35-supp2-02.webp",
+    "description": "Michael follows",
+    "grid": "ch35-grid-supp-002",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "ch35-supp2-03",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p003-s6",
+    "image": "assets/ch35-supp2-03.webp",
+    "description": "Beejee grips shirt",
+    "grid": "ch35-grid-supp-002",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "ch35-supp2-04",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p003-s9",
+    "image": "assets/ch35-supp2-04.webp",
+    "description": "Michael watches Beejee leave",
+    "grid": "ch35-grid-supp-002",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "ch35-supp2-05",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p004-s11",
+    "image": "assets/ch35-supp2-05.webp",
+    "description": "Beejee searches pockets",
+    "grid": "ch35-grid-supp-002",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "ch35-supp2-06",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p004-s13",
+    "image": "assets/ch35-supp2-06.webp",
+    "description": "Beejee throws book",
+    "grid": "ch35-grid-supp-002",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "ch35-supp2-07",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p004-s14",
+    "image": "assets/ch35-supp2-07.webp",
+    "description": "Book arcs toward dumpster",
+    "grid": "ch35-grid-supp-002",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "ch35-supp2-08",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p004-s15",
+    "image": "assets/ch35-supp2-08.webp",
+    "description": "Michael reaches into dumpster",
+    "grid": "ch35-grid-supp-002",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "ch35-supp2-09",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p005-s16",
+    "image": "assets/ch35-supp2-09.webp",
+    "description": "Michael retrieves book",
+    "grid": "ch35-grid-supp-002",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "ch35-supp2-10",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p006-s17",
+    "image": "assets/ch35-supp2-10.webp",
+    "description": "Michael conceals book",
+    "grid": "ch35-grid-supp-002",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "ch35-supp2-11",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p007-s21",
+    "image": "assets/ch35-supp2-11.webp",
+    "description": "Michael apologizes to Ridge",
+    "grid": "ch35-grid-supp-002",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "ch35-supp2-12",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p008-s25",
+    "image": "assets/ch35-supp2-12.webp",
+    "description": "Ridge asks to call Gibby",
+    "grid": "ch35-grid-supp-002",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "ch35-supp2-13",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p010-s29",
+    "image": "assets/ch35-supp2-13.webp",
+    "description": "Michael waits beside book",
+    "grid": "ch35-grid-supp-002",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "ch35-supp2-14",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p011-s37",
+    "image": "assets/ch35-supp2-14.webp",
+    "description": "Michael hesitates",
+    "grid": "ch35-grid-supp-002",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "ch35-supp2-15",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p016-s43",
+    "image": "assets/ch35-supp2-15.webp",
+    "description": "Michael pinches cover corner",
+    "grid": "ch35-grid-supp-002",
+    "row": 4,
+    "column": 3
   }
 ]
