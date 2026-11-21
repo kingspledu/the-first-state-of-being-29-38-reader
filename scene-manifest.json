@@ -1288,5 +1288,155 @@
     "grid": "ch33-density-grid-001",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "final-mixed-01",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p052-s135",
+    "image": "assets/final-mixed-01.webp",
+    "description": "The future teleportation laboratory",
+    "grid": "final-mixed-grid-001",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "final-mixed-02",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p054-s142",
+    "image": "assets/final-mixed-02.webp",
+    "description": "Unoccupied laboratory workstations",
+    "grid": "final-mixed-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "final-mixed-03",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p059-s156",
+    "image": "assets/final-mixed-03.webp",
+    "description": "The STM after an unsuccessful restart",
+    "grid": "final-mixed-grid-001",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "final-mixed-04",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p064-s165",
+    "image": "assets/final-mixed-04.webp",
+    "description": "Scientific equipment awaiting another attempt",
+    "grid": "final-mixed-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "final-mixed-05",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p066-s172",
+    "image": "assets/final-mixed-05.webp",
+    "description": "The quiet laboratory control station",
+    "grid": "final-mixed-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "final-mixed-06",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p075-s189",
+    "image": "assets/final-mixed-06.webp",
+    "description": "The STM begins its restart",
+    "grid": "final-mixed-grid-001",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "final-mixed-07",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p077-s194",
+    "image": "assets/final-mixed-07.webp",
+    "description": "The STM becomes active",
+    "grid": "final-mixed-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "final-mixed-09",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p059-s132",
+    "image": "assets/final-mixed-09.webp",
+    "description": "Gibby remembers the friends who left",
+    "grid": "final-mixed-grid-001",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "final-mixed-10",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p064-s143",
+    "image": "assets/final-mixed-10.webp",
+    "description": "The future laboratory location",
+    "grid": "final-mixed-grid-001",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "final-mixed-11",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p066-s151",
+    "image": "assets/final-mixed-11.webp",
+    "description": "The laboratory awaiting the return",
+    "grid": "final-mixed-grid-001",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "final-mixed-12",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p019-s47",
+    "image": "assets/final-mixed-12.webp",
+    "description": "An impression of the encoded page",
+    "grid": "final-mixed-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "final-mixed-13",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p019-s51",
+    "image": "assets/final-mixed-13.webp",
+    "description": "An impression of the encoded upper page",
+    "grid": "final-mixed-grid-001",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "final-mixed-14",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p019-s55",
+    "image": "assets/final-mixed-14.webp",
+    "description": "An impression of the encoded lower page",
+    "grid": "final-mixed-grid-001",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "final-mixed-15",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p011-s30",
+    "image": "assets/final-mixed-15.webp",
+    "description": "Michael still cannot decode the book",
+    "grid": "final-mixed-grid-001",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "final-mixed-16",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p038-s89",
+    "image": "assets/final-mixed-16.webp",
+    "description": "Michael reflects on his dishonest choices",
+    "grid": "final-mixed-grid-001",
+    "row": 4,
+    "column": 4
   }
 ]
