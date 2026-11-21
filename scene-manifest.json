@@ -978,5 +978,165 @@
     "grid": "mixed37-38-grid-001",
     "row": 4,
     "column": 1
+  },
+  {
+    "id": "mixed-next-01",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p023-s64",
+    "image": "assets/mixed-next-01.webp",
+    "description": "His mother brings the jar and paperback",
+    "grid": "mixed-next-grid-001",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "mixed-next-02",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p025-s71",
+    "image": "assets/mixed-next-02.webp",
+    "description": "Michael studies the label on the jar",
+    "grid": "mixed-next-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "mixed-next-03",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p027-s78",
+    "image": "assets/mixed-next-03.webp",
+    "description": "His mother explains where the gifts came from",
+    "grid": "mixed-next-grid-001",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "mixed-next-04",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p029-s86",
+    "image": "assets/mixed-next-04.webp",
+    "description": "His mother speaks beside the counter",
+    "grid": "mixed-next-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "mixed-next-05",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p034-s94",
+    "image": "assets/mixed-next-05.webp",
+    "description": "Michael shakes the closed jar",
+    "grid": "mixed-next-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "mixed-next-06",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p044-s119",
+    "image": "assets/mixed-next-06.webp",
+    "description": "His mother refuses to take the money",
+    "grid": "mixed-next-grid-001",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "mixed-next-07",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p047-s127",
+    "image": "assets/mixed-next-07.webp",
+    "description": "His mother gives thanks",
+    "grid": "mixed-next-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "mixed-next-08",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p018-s48",
+    "image": "assets/mixed-next-08.webp",
+    "description": "Michael pauses opening the jar",
+    "grid": "mixed-next-grid-001",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "mixed-next-09",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p030-s71",
+    "image": "assets/mixed-next-09.webp",
+    "description": "Michael explains who left the money",
+    "grid": "mixed-next-grid-001",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "mixed-next-10",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p036-s83",
+    "image": "assets/mixed-next-10.webp",
+    "description": "Michael asks how to use the money",
+    "grid": "mixed-next-grid-001",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "mixed-next-11",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p038-s98",
+    "image": "assets/mixed-next-11.webp",
+    "description": "Michael imagines having Ridge as a brother",
+    "grid": "mixed-next-grid-001",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "mixed-next-12",
+    "chapter": 32,
+    "insert_after_sentence": "ch32-p001-s4",
+    "image": "assets/mixed-next-12.webp",
+    "description": "Michael runs through the rain",
+    "grid": "mixed-next-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "mixed-next-13",
+    "chapter": 35,
+    "insert_after_sentence": "ch35-p011-s33",
+    "image": "assets/mixed-next-13.webp",
+    "description": "Michael waits beside the closed book",
+    "grid": "mixed-next-grid-001",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "mixed-next-14",
+    "chapter": 36,
+    "insert_after_sentence": "ch36-p001-s4",
+    "image": "assets/mixed-next-14.webp",
+    "description": "Michael turns the unreadable pages",
+    "grid": "mixed-next-grid-001",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "mixed-next-15",
+    "chapter": 36,
+    "insert_after_sentence": "ch36-p002-s12",
+    "image": "assets/mixed-next-15.webp",
+    "description": "The sumbook lies face down by the door",
+    "grid": "mixed-next-grid-001",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "mixed-next-16",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p001-s4",
+    "image": "assets/mixed-next-16.webp",
+    "description": "Michael loses track of time reading on his bed",
+    "grid": "mixed-next-grid-001",
+    "row": 4,
+    "column": 4
   }
 ]
