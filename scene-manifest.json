@@ -1614,5 +1614,181 @@
     "row": 4,
     "column": 4,
     "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-01",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p094-s199",
+    "image": "assets/ch33-lab-rebuild2-01.webp",
+    "description": "Shale admonishes Ridge while Maria intervenes",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 1,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-02",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p098-s204",
+    "image": "assets/ch33-lab-rebuild2-02.webp",
+    "description": "Ridge asks Maria whether anything changed",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 1,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-03",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p101-s207",
+    "image": "assets/ch33-lab-rebuild2-03.webp",
+    "description": "Ian reassures Ridge",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 1,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-04",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p103-s211",
+    "image": "assets/ch33-lab-rebuild2-04.webp",
+    "description": "Bex describes how worried the family was",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 1,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-05",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p105-s214",
+    "image": "assets/ch33-lab-rebuild2-05.webp",
+    "description": "Ian asks about the book in Ridge pocket",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 2,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-06",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p106-s216",
+    "image": "assets/ch33-lab-rebuild2-06.webp",
+    "description": "Bex examines the souvenir paperback",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 2,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-07",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p109-s224",
+    "image": "assets/ch33-lab-rebuild2-07.webp",
+    "description": "Maria reacts to the name inside the paperback",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 2,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-08",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p111-s227",
+    "image": "assets/ch33-lab-rebuild2-08.webp",
+    "description": "Ian asks about Elizabeth Gibson",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 2,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-09",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p112-s231",
+    "image": "assets/ch33-lab-rebuild2-09.webp",
+    "description": "Bex asks whether Ridge revealed the future",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 3,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-10",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p113-s236",
+    "image": "assets/ch33-lab-rebuild2-10.webp",
+    "description": "Shale questions Ridge",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 3,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-11",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p114-s239",
+    "image": "assets/ch33-lab-rebuild2-11.webp",
+    "description": "Ridge explains why he told Gibby",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 3,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-12",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p116-s242",
+    "image": "assets/ch33-lab-rebuild2-12.webp",
+    "description": "Maria explains her theory",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 3,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-13",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p116-s244",
+    "image": "assets/ch33-lab-rebuild2-13.webp",
+    "description": "Maria checks that Ridge has recovered",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 4,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-14",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p116-s247",
+    "image": "assets/ch33-lab-rebuild2-14.webp",
+    "description": "Maria helps Ridge stand to get food",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 4,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-15",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p119-s251",
+    "image": "assets/ch33-lab-rebuild2-15.webp",
+    "description": "Ian and Bex ask about Gibby",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 4,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-lab-rebuild2-16",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p125-s259",
+    "image": "assets/ch33-lab-rebuild2-16.webp",
+    "description": "Ridge jokes about her taste in music",
+    "grid": "ch33-lab-rebuild-grid-002",
+    "row": 4,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
   }
 ]
