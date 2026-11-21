@@ -618,5 +618,125 @@
     "grid": "ch29-30-density-grid-001",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "ch31-density-01",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p001-s4",
+    "image": "assets/ch31-density-01.webp",
+    "description": "Michael wakes aching on a rainy morning",
+    "grid": "ch31-density-grid-001",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "ch31-density-02",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p002-s10",
+    "image": "assets/ch31-density-02.webp",
+    "description": "Michael washes his hands reluctantly",
+    "grid": "ch31-density-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "ch31-density-03",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p003-s16",
+    "image": "assets/ch31-density-03.webp",
+    "description": "Michael considers delaying the hospital conversation",
+    "grid": "ch31-density-grid-001",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "ch31-density-04",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p010-s29",
+    "image": "assets/ch31-density-04.webp",
+    "description": "Michael sits with the jar and breakfast packet",
+    "grid": "ch31-density-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "ch31-density-05",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p013-s36",
+    "image": "assets/ch31-density-05.webp",
+    "description": "Ridge hears the rain from bed",
+    "grid": "ch31-density-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "ch31-density-07",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p023-s60",
+    "image": "assets/ch31-density-07.webp",
+    "description": "Michael empties the jar of money",
+    "grid": "ch31-density-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "ch31-density-10",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p037-s88",
+    "image": "assets/ch31-density-10.webp",
+    "description": "Michael imagines no longer needing secondhand clothes",
+    "grid": "ch31-density-grid-001",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "ch31-density-12",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p043-s110",
+    "image": "assets/ch31-density-12.webp",
+    "description": "Ridge struggles with a sore throat",
+    "grid": "ch31-density-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "ch31-density-13",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p046-s117",
+    "image": "assets/ch31-density-13.webp",
+    "description": "Michael considers college",
+    "grid": "ch31-density-grid-001",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "ch31-density-14",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p054-s128",
+    "image": "assets/ch31-density-14.webp",
+    "description": "Michael raises the need for hospital care",
+    "grid": "ch31-density-grid-001",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "ch31-density-15",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p057-s139",
+    "image": "assets/ch31-density-15.webp",
+    "description": "Ridge feels guilty while holding the inactive EGG",
+    "grid": "ch31-density-grid-001",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "ch31-density-16",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p061-s148",
+    "image": "assets/ch31-density-16.webp",
+    "description": "Michael listens compassionately to Ridge",
+    "grid": "ch31-density-grid-001",
+    "row": 4,
+    "column": 4
   }
 ]
