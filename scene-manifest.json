@@ -308,5 +308,155 @@
     "grid": "ch35-grid-supp-002",
     "row": 4,
     "column": 3
+  },
+  {
+    "id": "ch29-supp2-01",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p024-s52",
+    "image": "assets/ch29-supp2-01.webp",
+    "description": "Beejee searches the closet",
+    "grid": "ch29-grid-supp-002",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "ch29-supp2-02",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p025-s54",
+    "image": "assets/ch29-supp2-02.webp",
+    "description": "Ridge exchanges a worried glance with Michael",
+    "grid": "ch29-grid-supp-002",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "ch29-supp2-03",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p026-s57",
+    "image": "assets/ch29-supp2-03.webp",
+    "description": "Michael presses his thumb into his palm",
+    "grid": "ch29-grid-supp-002",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "ch29-supp2-04",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p027-s64",
+    "image": "assets/ch29-supp2-04.webp",
+    "description": "Beejee kneels by the bed",
+    "grid": "ch29-grid-supp-002",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "ch29-supp2-05",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p030-s67",
+    "image": "assets/ch29-supp2-05.webp",
+    "description": "Beejee retrieves hammer and pliers",
+    "grid": "ch29-grid-supp-002",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "ch29-supp2-06",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p031-s70",
+    "image": "assets/ch29-supp2-06.webp",
+    "description": "Beejee confronts Michael with the recovered tools",
+    "grid": "ch29-grid-supp-002",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "ch29-supp2-07",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p033-s76",
+    "image": "assets/ch29-supp2-07.webp",
+    "description": "Ridge steps in front of Michael",
+    "grid": "ch29-grid-supp-002",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "ch29-supp2-08",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p034-s81",
+    "image": "assets/ch29-supp2-08.webp",
+    "description": "Ridge admits taking the tools",
+    "grid": "ch29-grid-supp-002",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "ch29-supp2-10",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p037-s90",
+    "image": "assets/ch29-supp2-10.webp",
+    "description": "Beejee confronts Ridge",
+    "grid": "ch29-grid-supp-002",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "ch29-supp2-11",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p038-s92",
+    "image": "assets/ch29-supp2-11.webp",
+    "description": "Beejee takes the folded cargo shorts",
+    "grid": "ch29-grid-supp-002",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "ch29-supp2-12",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p040-s97",
+    "image": "assets/ch29-supp2-12.webp",
+    "description": "Ridge tries to recover his belongings",
+    "grid": "ch29-grid-supp-002",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "ch29-supp2-13",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p041-s98",
+    "image": "assets/ch29-supp2-13.webp",
+    "description": "Beejee leaves the bedroom",
+    "grid": "ch29-grid-supp-002",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "ch29-supp2-14",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p043-s103",
+    "image": "assets/ch29-supp2-14.webp",
+    "description": "Ridge nearly faints",
+    "grid": "ch29-grid-supp-002",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "ch29-supp2-15",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p043-s106",
+    "image": "assets/ch29-supp2-15.webp",
+    "description": "Ridge grips the wall for balance",
+    "grid": "ch29-grid-supp-002",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "ch29-supp2-16",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p045-s112",
+    "image": "assets/ch29-supp2-16.webp",
+    "description": "Michael runs after Beejee",
+    "grid": "ch29-grid-supp-002",
+    "row": 4,
+    "column": 4
   }
 ]
