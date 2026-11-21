@@ -458,5 +458,165 @@
     "grid": "ch29-grid-supp-002",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "ch29-30-density-01",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p001-s3",
+    "image": "assets/ch29-30-density-01.webp",
+    "description": "Michael wakes to pounding",
+    "grid": "ch29-30-density-grid-001",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "ch29-30-density-02",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p017-s31",
+    "image": "assets/ch29-30-density-02.webp",
+    "description": "Beejee accuses Michael of taking tools",
+    "grid": "ch29-30-density-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "ch29-30-density-03",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p021-s43",
+    "image": "assets/ch29-30-density-03.webp",
+    "description": "Michael wishes he could escape",
+    "grid": "ch29-30-density-grid-001",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "ch29-30-density-04",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p023-s49",
+    "image": "assets/ch29-30-density-04.webp",
+    "description": "Beejee enters the bedroom",
+    "grid": "ch29-30-density-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "ch29-30-density-05",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p026-s60",
+    "image": "assets/ch29-30-density-05.webp",
+    "description": "Michael freezes with fear",
+    "grid": "ch29-30-density-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "ch29-30-density-06",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p032-s73",
+    "image": "assets/ch29-30-density-06.webp",
+    "description": "Michael fears what Beejee might do",
+    "grid": "ch29-30-density-grid-001",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "ch29-30-density-07",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p034-s79",
+    "image": "assets/ch29-30-density-07.webp",
+    "description": "Ridge protects Michael and confesses",
+    "grid": "ch29-30-density-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "ch29-30-density-08",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p036-s84",
+    "image": "assets/ch29-30-density-08.webp",
+    "description": "Ridge cannot identify the tools",
+    "grid": "ch29-30-density-grid-001",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "ch29-30-density-09",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p043-s101",
+    "image": "assets/ch29-30-density-09.webp",
+    "description": "Ridge sways weakly near the doorway",
+    "grid": "ch29-30-density-grid-001",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "ch29-30-density-10",
+    "chapter": 29,
+    "insert_after_sentence": "ch29-p044-s109",
+    "image": "assets/ch29-30-density-10.webp",
+    "description": "Michael promises to recover the book",
+    "grid": "ch29-30-density-grid-001",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "ch29-30-density-11",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p004-s8",
+    "image": "assets/ch29-30-density-11.webp",
+    "description": "Gibby worries about Ridge and the tools",
+    "grid": "ch29-30-density-grid-001",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "ch29-30-density-12",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p006-s15",
+    "image": "assets/ch29-30-density-12.webp",
+    "description": "Gibby considers searching the dumpster",
+    "grid": "ch29-30-density-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "ch29-30-density-13",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p006-s19",
+    "image": "assets/ch29-30-density-13.webp",
+    "description": "Michael listens silently",
+    "grid": "ch29-30-density-grid-001",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "ch29-30-density-14",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p006-s23",
+    "image": "assets/ch29-30-density-14.webp",
+    "description": "Gibby resolves to search in the morning",
+    "grid": "ch29-30-density-grid-001",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "ch29-30-density-15",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p016-s46",
+    "image": "assets/ch29-30-density-15.webp",
+    "description": "Gibby glances toward the bedroom",
+    "grid": "ch29-30-density-grid-001",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "ch29-30-density-16",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p019-s52",
+    "image": "assets/ch29-30-density-16.webp",
+    "description": "Michael replies wearily",
+    "grid": "ch29-30-density-grid-001",
+    "row": 4,
+    "column": 4
   }
 ]
