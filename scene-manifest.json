@@ -1860,5 +1860,181 @@
     "grid": "ch33-last-seven-grid",
     "row": 4,
     "column": 1
+  },
+  {
+    "id": "ch30-lab-repair-01",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p052-s133",
+    "image": "assets/ch30-lab-repair-01.webp",
+    "description": "The future teleportation laboratory",
+    "grid": "ch30-lab-repair-grid",
+    "row": 1,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-02",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p053-s139",
+    "image": "assets/ch30-lab-repair-02.webp",
+    "description": "Maria Ian and Bex at the controls",
+    "grid": "ch30-lab-repair-grid",
+    "row": 1,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-03",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p054-s143",
+    "image": "assets/ch30-lab-repair-03.webp",
+    "description": "Bex examines the reversed code",
+    "grid": "ch30-lab-repair-grid",
+    "row": 1,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-04",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p055-s147",
+    "image": "assets/ch30-lab-repair-04.webp",
+    "description": "Ian attempts to restart the STM",
+    "grid": "ch30-lab-repair-grid",
+    "row": 1,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-05",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p058-s151",
+    "image": "assets/ch30-lab-repair-05.webp",
+    "description": "The STM reports another malfunction",
+    "grid": "ch30-lab-repair-grid",
+    "row": 2,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-06",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p059-s155",
+    "image": "assets/ch30-lab-repair-06.webp",
+    "description": "Ian reacts to the failed restart",
+    "grid": "ch30-lab-repair-grid",
+    "row": 2,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-07",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p061-s159",
+    "image": "assets/ch30-lab-repair-07.webp",
+    "description": "Maria explains why Shale is absent",
+    "grid": "ch30-lab-repair-grid",
+    "row": 2,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-08",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p063-s163",
+    "image": "assets/ch30-lab-repair-08.webp",
+    "description": "Maria considers seeking outside help",
+    "grid": "ch30-lab-repair-grid",
+    "row": 2,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-09",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p064-s167",
+    "image": "assets/ch30-lab-repair-09.webp",
+    "description": "Ian worries about abandoning Ridge",
+    "grid": "ch30-lab-repair-grid",
+    "row": 3,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-10",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p066-s171",
+    "image": "assets/ch30-lab-repair-10.webp",
+    "description": "Maria is determined to bring Ridge home",
+    "grid": "ch30-lab-repair-grid",
+    "row": 3,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-11",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p067-s175",
+    "image": "assets/ch30-lab-repair-11.webp",
+    "description": "Ian offers to take the blame",
+    "grid": "ch30-lab-repair-grid",
+    "row": 3,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-12",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p070-s179",
+    "image": "assets/ch30-lab-repair-12.webp",
+    "description": "Bex discovers another code problem",
+    "grid": "ch30-lab-repair-grid",
+    "row": 3,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-13",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p072-s183",
+    "image": "assets/ch30-lab-repair-13.webp",
+    "description": "Ian is skeptical about the new attempt",
+    "grid": "ch30-lab-repair-grid",
+    "row": 4,
+    "column": 1,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-14",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p074-s187",
+    "image": "assets/ch30-lab-repair-14.webp",
+    "description": "Maria fears another false start",
+    "grid": "ch30-lab-repair-grid",
+    "row": 4,
+    "column": 2,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-15",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p076-s191",
+    "image": "assets/ch30-lab-repair-15.webp",
+    "description": "Maria authorizes another restart",
+    "grid": "ch30-lab-repair-grid",
+    "row": 4,
+    "column": 3,
+    "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch30-lab-repair-16",
+    "chapter": 30,
+    "insert_after_sentence": "ch30-p077-s195",
+    "image": "assets/ch30-lab-repair-16.webp",
+    "description": "Bex restarts the STM successfully",
+    "grid": "ch30-lab-repair-grid",
+    "row": 4,
+    "column": 4,
+    "reference": "assets/sabio-family-master-v1.png"
   }
 ]
