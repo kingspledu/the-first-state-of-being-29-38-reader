@@ -1138,5 +1138,155 @@
     "grid": "mixed-next-grid-001",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "ch33-density-01",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p006-s12",
+    "image": "assets/ch33-density-01.webp",
+    "description": "Michael asks about paper",
+    "grid": "ch33-density-grid-001",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "ch33-density-02",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p011-s20",
+    "image": "assets/ch33-density-02.webp",
+    "description": "Michael pockets the folded note",
+    "grid": "ch33-density-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "ch33-density-04",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p014-s30",
+    "image": "assets/ch33-density-04.webp",
+    "description": "Gibby picks up her paperback",
+    "grid": "ch33-density-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "ch33-density-05",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p014-s34",
+    "image": "assets/ch33-density-05.webp",
+    "description": "Gibby gives Ridge the paperback",
+    "grid": "ch33-density-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "ch33-density-06",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p014-s38",
+    "image": "assets/ch33-density-06.webp",
+    "description": "Gibby asks for something to remember Ridge",
+    "grid": "ch33-density-grid-001",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "ch33-density-07",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p014-s42",
+    "image": "assets/ch33-density-07.webp",
+    "description": "Gibby asks Ridge to sign the menu",
+    "grid": "ch33-density-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "ch33-density-08",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p015-s47",
+    "image": "assets/ch33-density-08.webp",
+    "description": "Ridge slowly signs the menu",
+    "grid": "ch33-density-grid-001",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "ch33-density-09",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p019-s55",
+    "image": "assets/ch33-density-09.webp",
+    "description": "Gibby notices Ridge reacting strangely",
+    "grid": "ch33-density-grid-001",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "ch33-density-10",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p022-s60",
+    "image": "assets/ch33-density-10.webp",
+    "description": "Ridge discovers the name inside the book",
+    "grid": "ch33-density-grid-001",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "ch33-density-11",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p024-s66",
+    "image": "assets/ch33-density-11.webp",
+    "description": "Gibby explains her nickname",
+    "grid": "ch33-density-grid-001",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "ch33-density-12",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p027-s73",
+    "image": "assets/ch33-density-12.webp",
+    "description": "Ridge signals Michael to keep the realization quiet",
+    "grid": "ch33-density-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "ch33-density-13",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p029-s79",
+    "image": "assets/ch33-density-13.webp",
+    "description": "Ridge hesitates before trying the EGG",
+    "grid": "ch33-density-grid-001",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "ch33-density-14",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p032-s84",
+    "image": "assets/ch33-density-14.webp",
+    "description": "Gibby asks how they will know he returned safely",
+    "grid": "ch33-density-grid-001",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "ch33-density-15",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p036-s91",
+    "image": "assets/ch33-density-15.webp",
+    "description": "Michael admits taking the tools",
+    "grid": "ch33-density-grid-001",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "ch33-density-16",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p046-s110",
+    "image": "assets/ch33-density-16.webp",
+    "description": "Michael and Gibby wonder what changed after Ridge leaves",
+    "grid": "ch33-density-grid-001",
+    "row": 4,
+    "column": 4
   }
 ]
