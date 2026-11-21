@@ -1790,5 +1790,75 @@
     "row": 4,
     "column": 4,
     "reference": "assets/sabio-family-master-v1.png"
+  },
+  {
+    "id": "ch33-last-seven-01",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p012-s25",
+    "image": "assets/ch33-last-seven-01.webp",
+    "description": "Gibby wants Ridge to take a souvenir",
+    "grid": "ch33-last-seven-grid",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "ch33-last-seven-05",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p065-s147",
+    "image": "assets/ch33-last-seven-05.webp",
+    "description": "The future laboratory and its workstations",
+    "grid": "ch33-last-seven-grid",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "ch33-last-seven-09",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p068-s155",
+    "image": "assets/ch33-last-seven-09.webp",
+    "description": "Maria sees Ridge return inside the STM",
+    "grid": "ch33-last-seven-grid",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "ch33-last-seven-10",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p084-s181",
+    "image": "assets/ch33-last-seven-10.webp",
+    "description": "Bex urgently calls for the medical patch",
+    "grid": "ch33-last-seven-grid",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "ch33-last-seven-11",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p092-s196",
+    "image": "assets/ch33-last-seven-11.webp",
+    "description": "Shale admonishes Ridge after he is safe",
+    "grid": "ch33-last-seven-grid",
+    "row": 3,
+    "column": 3
+  },
+  {
+    "id": "ch33-last-seven-12",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p113-s235",
+    "image": "assets/ch33-last-seven-12.webp",
+    "description": "Shale asks whether Ridge revealed the future",
+    "grid": "ch33-last-seven-grid",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "ch33-last-seven-13",
+    "chapter": 33,
+    "insert_after_sentence": "ch33-p121-s255",
+    "image": "assets/ch33-last-seven-13.webp",
+    "description": "Ridge tells his family that Gibby likes mystery novels",
+    "grid": "ch33-last-seven-grid",
+    "row": 4,
+    "column": 1
   }
 ]
