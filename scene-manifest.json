@@ -878,5 +878,105 @@
     "grid": "mixed34-36-grid-001",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "mixed37-38-02",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p006-s19",
+    "image": "assets/mixed37-38-02.webp",
+    "description": "Michael is surprised his mother is home",
+    "grid": "mixed37-38-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "mixed37-38-04",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p016-s41",
+    "image": "assets/mixed37-38-04.webp",
+    "description": "Michael apologizes about the loud music",
+    "grid": "mixed37-38-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "mixed37-38-05",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p019-s46",
+    "image": "assets/mixed37-38-05.webp",
+    "description": "Michael claims he is tired",
+    "grid": "mixed37-38-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "mixed37-38-06",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p021-s53",
+    "image": "assets/mixed37-38-06.webp",
+    "description": "Michael answers about the nephew",
+    "grid": "mixed37-38-grid-001",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "mixed37-38-07",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p025-s60",
+    "image": "assets/mixed37-38-07.webp",
+    "description": "Michael asks about work",
+    "grid": "mixed37-38-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "mixed37-38-08",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p029-s69",
+    "image": "assets/mixed37-38-08.webp",
+    "description": "Michael reflects on the day he missed",
+    "grid": "mixed37-38-grid-001",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "mixed37-38-09",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p032-s78",
+    "image": "assets/mixed37-38-09.webp",
+    "description": "Michael questions his own character",
+    "grid": "mixed37-38-grid-001",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "mixed37-38-10",
+    "chapter": 37,
+    "insert_after_sentence": "ch37-p036-s83",
+    "image": "assets/mixed37-38-10.webp",
+    "description": "Michael remembers Mr Mosley at the foot of the bed",
+    "grid": "mixed37-38-grid-001",
+    "row": 3,
+    "column": 2
+  },
+  {
+    "id": "mixed37-38-12",
+    "chapter": 38,
+    "insert_after_sentence": "ch38-p002-s6",
+    "image": "assets/mixed37-38-12.webp",
+    "description": "Michael recalls his conversation while tying his shoes",
+    "grid": "mixed37-38-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "mixed37-38-13",
+    "chapter": 38,
+    "insert_after_sentence": "ch38-p003-s13",
+    "image": "assets/mixed37-38-13.webp",
+    "description": "Michael thinks about what he shared on the phone",
+    "grid": "mixed37-38-grid-001",
+    "row": 4,
+    "column": 1
   }
 ]
