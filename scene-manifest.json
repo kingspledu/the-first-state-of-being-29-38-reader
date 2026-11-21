@@ -738,5 +738,145 @@
     "grid": "ch31-density-grid-001",
     "row": 4,
     "column": 4
+  },
+  {
+    "id": "mixed34-36-01",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p002-s5",
+    "image": "assets/mixed34-36-01.webp",
+    "description": "Clothes packed for donation",
+    "grid": "mixed34-36-grid-001",
+    "row": 1,
+    "column": 1
+  },
+  {
+    "id": "mixed34-36-02",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p002-s9",
+    "image": "assets/mixed34-36-02.webp",
+    "description": "Watches and wallet left behind",
+    "grid": "mixed34-36-grid-001",
+    "row": 1,
+    "column": 2
+  },
+  {
+    "id": "mixed34-36-03",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p004-s18",
+    "image": "assets/mixed34-36-03.webp",
+    "description": "Michael misses Mr Mosley",
+    "grid": "mixed34-36-grid-001",
+    "row": 1,
+    "column": 3
+  },
+  {
+    "id": "mixed34-36-04",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p013-s37",
+    "image": "assets/mixed34-36-04.webp",
+    "description": "Michael explains his Y2K fears",
+    "grid": "mixed34-36-grid-001",
+    "row": 1,
+    "column": 4
+  },
+  {
+    "id": "mixed34-36-05",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p016-s42",
+    "image": "assets/mixed34-36-05.webp",
+    "description": "His mother listens to his concerns",
+    "grid": "mixed34-36-grid-001",
+    "row": 2,
+    "column": 1
+  },
+  {
+    "id": "mixed34-36-06",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p019-s51",
+    "image": "assets/mixed34-36-06.webp",
+    "description": "Michael asks to keep the canned food",
+    "grid": "mixed34-36-grid-001",
+    "row": 2,
+    "column": 2
+  },
+  {
+    "id": "mixed34-36-07",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p020-s56",
+    "image": "assets/mixed34-36-07.webp",
+    "description": "His mother explains others need the food",
+    "grid": "mixed34-36-grid-001",
+    "row": 2,
+    "column": 3
+  },
+  {
+    "id": "mixed34-36-08",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p022-s64",
+    "image": "assets/mixed34-36-08.webp",
+    "description": "His mother discusses a memento",
+    "grid": "mixed34-36-grid-001",
+    "row": 2,
+    "column": 4
+  },
+  {
+    "id": "mixed34-36-09",
+    "chapter": 34,
+    "insert_after_sentence": "ch34-p024-s70",
+    "image": "assets/mixed34-36-09.webp",
+    "description": "His mother taps the DVD case",
+    "grid": "mixed34-36-grid-001",
+    "row": 3,
+    "column": 1
+  },
+  {
+    "id": "mixed34-36-12",
+    "chapter": 36,
+    "insert_after_sentence": "ch36-p004-s19",
+    "image": "assets/mixed34-36-12.webp",
+    "description": "Michael turns up his portable stereo",
+    "grid": "mixed34-36-grid-001",
+    "row": 3,
+    "column": 4
+  },
+  {
+    "id": "mixed34-36-13",
+    "chapter": 36,
+    "insert_after_sentence": "ch36-p008-s26",
+    "image": "assets/mixed34-36-13.webp",
+    "description": "Michael realizes the book is written in code",
+    "grid": "mixed34-36-grid-001",
+    "row": 4,
+    "column": 1
+  },
+  {
+    "id": "mixed34-36-14",
+    "chapter": 36,
+    "insert_after_sentence": "ch36-p010-s34",
+    "image": "assets/mixed34-36-14.webp",
+    "description": "Michael reflects on his fears",
+    "grid": "mixed34-36-grid-001",
+    "row": 4,
+    "column": 2
+  },
+  {
+    "id": "mixed34-36-15",
+    "chapter": 36,
+    "insert_after_sentence": "ch36-p010-s38",
+    "image": "assets/mixed34-36-15.webp",
+    "description": "Michael remembers taking the canned goods",
+    "grid": "mixed34-36-grid-001",
+    "row": 4,
+    "column": 3
+  },
+  {
+    "id": "mixed34-36-16",
+    "chapter": 31,
+    "insert_after_sentence": "ch31-p037-s92",
+    "image": "assets/mixed34-36-16.webp",
+    "description": "Michael considers buying emergency supplies",
+    "grid": "mixed34-36-grid-001",
+    "row": 4,
+    "column": 4
   }
 ]
